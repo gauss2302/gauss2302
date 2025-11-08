@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nick Shilov</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Nick Shilov Software Engineer</h1>
+<!-- <h3 align="center">A passionate Software Engineer</h3> -->
 
-- 🔭 I’m currently working on [personal task application Nail It](https://github.com/gauss2302/Nail-It-Todo-Task-Application)
+- Results-driven software engineer with a strong technical mindset and expertise in modern development practices.
 
-- 🌱 Learing **Golang and Backend Infrastructure**
+- Skilled at solving complex problems and optimizing software performance.
 
-- 💬 Adore talking about updates in **Mobile Development**
+- Adept at translating technical concepts for diverse stakeholders and managing successful project deliveries.
 
-- 📫 You can reach me out by **shilov6865@gmail.com**
+- Demonstrates adaptability in fast-paced, cross-cultural environments.
+
+- Email **shilov6865@gmail.com**
   
-- 🖖 Language proficiency in 🇺🇸  🇨🇳  🇷🇺
+- Speak English, Chinese, Russian
 
-- 🟣 Working on my pet project in the Chinese Job Market **Alma Mater**
 
 
 <h3 align="left">Connect with me:</h3>
